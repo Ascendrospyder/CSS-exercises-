@@ -1,0 +1,19 @@
+.light-red {
+    background-color: rgb(233, 128, 128); 
+    font-family: Verdana, sans-serif;
+}
+
+#index-blue-36 {
+    color: blue; 
+    font-size: 36px;
+}
+
+#unique-1,
+.font-24 {
+    font-size: 24px;
+}
+
+.font-24 {
+    background-color: lightgreen;
+    font-weight: 700;
+}
